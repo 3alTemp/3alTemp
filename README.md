@@ -6,4 +6,4 @@ This repository aims to build a nice full-time funky feller at your disposal (So
 * [YouTube channel](https://www.youtube.com/channel/UCsyDTX7NIc7VNo60MPIwkSg)
 * [Twitter](https://twitter.com/3alTemp)
 
-### Yeah that's pretty much it lol good evening 🤠
+### yeah that's pretty much it lol good evening 🤠
