@@ -7,7 +7,7 @@ This repository aims to build a nice full-time funky feller at your disposal (So
 * [Twitter](https://twitter.com/3alTemp)
 
 ## Extra hyperlinks
-* [My cool website! (currently under construction qwq)](https://trialtemp.com/fromgit)
+* [My cool website! (currently under construction qwq)](https://trialtemp.com/)
 * [This sweet picture of a frog chilling](https://perthzoo.wa.gov.au/PerthZooWebsite/media/PerthZoo/Animals/Banners/Splendid-Tree-Frog_0001.jpg?ext=.jpg)
 * [Furry RP Discord Server](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
